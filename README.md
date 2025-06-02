@@ -21,10 +21,7 @@ method.
 </form> 
 </body> 
 </html> 
-Dept.CSE.SKSVMACET,Laxmeshwar  
-Page 2  
-Advanced Java(BCS613D)                                                                                                                          
-2024-25 
+
 Servlet Code (UserInfoServlet.java) 
 This servlet processes the form data and displays the user's name and age. 
 import java.io.*; 
